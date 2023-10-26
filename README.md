@@ -1,6 +1,6 @@
 # Software de Venda e Aluguel de Jogos de RPG
 
-Este projeto, desenvolvido como parte da disciplina "DOO - DESENVOLVIMENTO DE APLICAÇÕES ORIENTADAS A OBJETOS" em 2020.1 no Campus Lages, é um software que facilita a venda e aluguel de jogos de RPG. Abaixo, você encontrará informações sobre as telas do programa e as classes envolvidas.
+Este projeto, desenvolvido como parte da disciplina Desenvolvimento de Aplicações Orientadas a Objetos em 2020.1 no Campus Lages, é um software que facilita a venda e aluguel de jogos de RPG. Abaixo, você encontrará informações sobre as telas do programa e as classes envolvidas.
 
 ## Telas
 
