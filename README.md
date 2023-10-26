@@ -58,7 +58,7 @@ Este projeto, desenvolvido como parte da disciplina Desenvolvimento de Aplicaç�
 
 ## Estrutura do Diretório
 
-
+```
 src/sistemavendas/
 |-- Alugar.form
 |-- Alugar.java
@@ -79,7 +79,7 @@ src/sistemavendas/
 |-- SistemaVendas.java
 |-- Venda.form
 |-- Venda.java
-
+```
 
 Aqui está uma breve descrição de cada arquivo:
 
