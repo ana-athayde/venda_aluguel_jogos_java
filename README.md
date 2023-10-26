@@ -55,11 +55,9 @@ Este projeto, desenvolvido como parte da disciplina Desenvolvimento de Aplicaç�
 5. **SistemaVendas**
    - A classe principal que inicia o programa.
 
-## Estrutura do Diretório
-
-Parece que você listou os arquivos e diretórios do seu projeto em `src/sistemavendas`. Se você deseja criar uma seção no seu README para listar esses arquivos e explicar sua função, aqui está um exemplo de como você pode fazer isso:
 
 ## Estrutura do Diretório
+
 
 src/sistemavendas/
 |-- Alugar.form
